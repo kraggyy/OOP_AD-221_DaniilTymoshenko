@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0730c48a-1e81-48e9-b2e3-007d1d38a8e5" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/laba3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,8 @@
       <updated>1695039381097</updated>
       <workItem from="1695039382740" duration="1625000" />
       <workItem from="1695588786387" duration="1417000" />
-      <workItem from="1696501908224" duration="398000" />
+      <workItem from="1696501908224" duration="1589000" />
+      <workItem from="1697128254827" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -65,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695039734351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1696502361856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696502361856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
